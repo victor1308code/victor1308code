@@ -2,8 +2,6 @@
 
 I work on systems and APIs at the Information and Communication Technology Office (ASTIC) of SEAC-DF. Focused on **backend** — I build robust REST APIs with Java/Spring and also web systems with Node.js.
 
-What I care about most is writing **secure, well-structured code**: clean layered architecture, proper authentication, and APIs that stay easy to maintain as they grow. I like taking a real-world process and turning it into something reliable that just works.
-
 - Currently developing **REST APIs** with Java + Spring Boot
 - Always learning something new to improve my projects
 - How to reach me: through the links below
