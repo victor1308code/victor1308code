@@ -1,111 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=220&section=header&text=Victor&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Dev%20%26%20TI%20na%20SEAC-DF&descAlignY=56&descSize=22" width="100%" />
+# 👋 Olá, eu sou o Victor
+
+### Desenvolvedor & TI na SEAC-DF · Brasília 🇧🇷
 
 <a href="https://github.com/victor1308code">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=26&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Desenvolvedor+%26+TI+na+SEAC-DF;Construindo+sistemas+web+do+zero;Node.js+%E2%80%A2+JavaScript+%E2%80%A2+SQLite;Transformando+ideias+em+aplica%C3%A7%C3%B5es" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/victor1308code">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/SEU-LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/victor1308code?tab=repositories">
-  <img src="https://komarev.com/ghpvc/?username=victor1308code&style=for-the-badge&color=2563eb&label=VISITAS" alt="Visitas"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=victor1308code&style=flat-square&color=2563eb&label=Visitas" alt="Visitas"/>
 
 </div>
 
-<br/>
+---
 
-## 👋 Sobre mim
+## 🧑‍💻 Sobre mim
 
-```javascript
-const victor = {
-  cargo: "Desenvolvedor & TI",
-  local: "SEAC-DF · Brasília 🇧🇷",
-  foco: "Construir sistemas web úteis e bem feitos",
-  trabalhandoEm: ["Aplicações web internas", "Automação", "Organogramas digitais"],
-  stack: ["Node.js", "Express", "SQLite", "JavaScript", "HTML", "CSS"],
-  filosofia: "Código simples, leve e que resolve problema real",
-};
-```
+- 🔭 Trabalho com **desenvolvimento e TI** na Assessoria de Tecnologia da Informação (ASTIC) da **SEAC-DF**
+- 💻 Construo **sistemas web do zero** — leves, diretos e sem frameworks pesados
+- 🌱 Foco em **código simples que resolve problema real**
+- 📫 Fale comigo no **LinkedIn** ou abra uma issue por aqui
 
-- 🔭 Atualmente **construindo sistemas web** para gestão e automação na **Assessoria de TI (ASTIC)** da SEAC-DF
-- 💻 Gosto de criar do **zero**, sem frameworks pesados — só o necessário pra entregar rápido e bem
-- 🌱 Sempre estudando algo novo pra deixar os projetos melhores
-- 📫 Me chame no **LinkedIn** ou abra uma issue por aqui
+---
 
-<br/>
+## 🛠️ Minhas Skills
 
-## 🛠️ Tecnologias & Ferramentas
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<div align="center">
+### ✅ Eu domino
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🌱 Estou aprendendo
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🎯 Quero aprender
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🖥️ Ferramentas que uso
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-</div>
+---
 
-<br/>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=victor1308code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=victor1308code&theme=tokyonight&hide_border=true" alt="Sequência"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1308code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
-
-</div>
-
-<br/>
-
-## 🏆 Troféus
+## 📊 GitHub em números
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=victor1308code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Troféus"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=victor1308code&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1308code&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens"/>
 
 </div>
 
-<br/>
+---
 
 ## 🚀 Projeto em destaque
 
-<div align="center">
-
 <a href="https://github.com/victor1308code/gestaoastic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victor1308code&repo=gestaoastic&theme=tokyonight&hide_border=true" alt="Gestão ASTIC"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victor1308code&repo=gestaoastic&theme=transparent&hide_border=true" alt="Gestão ASTIC"/>
 </a>
 
-</div>
-
-> **Gestão ASTIC** — Organograma digital e interativo da SEAC-DF, com carômetro, histórico de movimentações e exportação em PDF/CSV/JSON. Feito com Node.js, Express e SQLite.
-
-<br/>
+> **Gestão ASTIC** — Organograma digital e interativo da SEAC-DF: vista em árvore, carômetro com fotos, histórico de movimentações e exportação em PDF/CSV/JSON. Feito com Node.js, Express e SQLite.
 
 ---
 
 <div align="center">
 
-### 💬 *"Código simples é o que resolve problema de verdade."*
-
-<sub>Obrigado por visitar meu perfil! ⭐</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:1e3a8a&height=120&section=footer" width="100%" />
+<sub>💬 <i>"Código simples é o que resolve problema de verdade."</i></sub>
 
 </div>
