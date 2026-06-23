@@ -2,6 +2,8 @@
 
 I work on systems and APIs at the Information and Communication Technology Office (ASTIC) of SEAC-DF. Focused on **backend** — I build robust REST APIs with Java/Spring and also web systems with Node.js.
 
+What I care about most is writing **secure, well-structured code**: clean layered architecture, proper authentication, and APIs that stay easy to maintain as they grow. I like taking a real-world process and turning it into something reliable that just works.
+
 - Currently developing **REST APIs** with Java + Spring Boot
 - Always learning something new to improve my projects
 - How to reach me: through the links below
@@ -44,8 +46,8 @@ I work on systems and APIs at the Information and Communication Technology Offic
 ### 📊 My GitHub stats
 
 <div>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=victor1308code&show_icons=true&theme=radical&hide_border=true" alt="Victor's stats">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1308code&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=victor1308code&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Victor's stats">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1308code&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Most used languages">
 </div>
 
 ##
