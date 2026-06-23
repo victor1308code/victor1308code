@@ -1,11 +1,3 @@
-!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  Este é o README do seu PERFIL (victor1308code/victor1308code) ║
-  ║  Cole TODO este conteúdo no editor do GitHub e salve.          ║
-  ║  Onde houver "SEU-LINK" troque pelo link real.                 ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=220&section=header&text=Victor&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Dev%20%26%20TI%20na%20SEAC-DF&descAlignY=56&descSize=22" width="100%" />
