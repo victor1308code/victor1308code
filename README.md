@@ -1,15 +1,14 @@
-## Oiii, eu sou o Victor, desenvolvedor backend e profissional de TI na SEAC-DF! 👋
+## Hi, I'm Victor, backend developer and IT professional at SEAC-DF! 👋
 
-Trabalho com desenvolvimento de sistemas e APIs na Assessoria de Tecnologia da Informação e Comunicação (ASTIC) da SEAC-DF. Foco em **backend** — construo APIs REST robustas com Java/Spring e também sistemas web em Node.js.
+I work on systems and APIs at the Information and Communication Technology Office (ASTIC) of SEAC-DF. Focused on **backend** — I build robust REST APIs with Java/Spring and also web systems with Node.js.
 
-- 🔭 Atualmente desenvolvendo **APIs REST** com Java + Spring Boot
-- 🌱 Sempre aprendendo algo novo pra melhorar meus projetos
-- 💬 Pergunte-me sobre **Java, Spring Boot, APIs REST e bancos de dados**
-- 📫 Como me encontrar: nas redes abaixo 👇
+- Currently developing **REST APIs** with Java + Spring Boot
+- Always learning something new to improve my projects
+- How to reach me: through the links below
 
 ##
 
-### 🛠️ Tecnologias que utilizo
+### 🛠️ Technologies I use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -32,7 +31,7 @@ Trabalho com desenvolvimento de sistemas e APIs na Assessoria de Tecnologia da I
 
 ##
 
-### 🔗 Minhas redes
+### 🔗 My socials
 
 <div>
   <a href="https://github.com/victor1308code" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -42,29 +41,29 @@ Trabalho com desenvolvimento de sistemas e APIs na Assessoria de Tecnologia da I
 
 ##
 
-### 📊 Minhas estatísticas no GitHub
+### 📊 My GitHub stats
 
 <div>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=victor1308code&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Victor">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1308code&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Linguagens mais usadas">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=victor1308code&show_icons=true&theme=radical&hide_border=true" alt="Victor's stats">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor1308code&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used languages">
 </div>
 
 ##
 
-### 🚀 Projeto em destaque
+### 🚀 Featured project
 
 <a href="https://github.com/victor1308code/raizes-do-nordeste-backend" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victor1308code&repo=raizes-do-nordeste-backend&theme=radical&hide_border=true" alt="Raízes do Nordeste - Backend">
 </a>
 
-> **Raízes do Nordeste (Backend)** — API REST em **Java + Spring Boot** com autenticação **JWT/Spring Security**, persistência via **Spring Data JPA + PostgreSQL** e documentação **OpenAPI/Swagger**.
+> **Raízes do Nordeste (Backend)** — REST API built with **Java + Spring Boot**, **JWT/Spring Security** authentication, persistence via **Spring Data JPA + PostgreSQL** and **OpenAPI/Swagger** documentation.
 >
-> 🔒 *Também desenvolvo o **Gestão ASTIC** — organograma digital interativo da SEAC-DF (Node.js + SQLite), um sistema interno da Secretaria.*
+> I also develop **Gestão ASTIC** — an interactive digital org chart for SEAC-DF (Node.js + SQLite), an internal system of the Secretariat.
 
 ##
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/victor1308code/victor1308code/output/github-snake-dark.svg" alt="Cobrinha comendo as contribuições">
+<img src="https://raw.githubusercontent.com/victor1308code/victor1308code/output/github-snake-dark.svg" alt="Snake eating the contributions">
 
 </div>
