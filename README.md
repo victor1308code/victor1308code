@@ -45,6 +45,14 @@ My main focus is **Backend Development**, building RESTful APIs with **Java and 
 
 ### 🚀 Featured Projects
 
+**[Personal & Academic Portfolio](https://victor1308code.github.io/portifolio-victor-oliveira/)** ([Repository](https://github.com/victor1308code/portifolio-victor-oliveira))
+
+Minimalist high-performance portfolio showcasing my professional profile, technical skills, academic background, and projects.
+
+**[Vértice Contabilidade — Institutional Landing Page](https://victor1308code.github.io/vertice-contabilidade/)** ([Repository](https://github.com/victor1308code/vertice-contabilidade))
+
+High-conversion modern landing page built with Next.js 14, React, TypeScript, and Tailwind CSS.
+
 **[Raízes do Nordeste — Backend](https://github.com/victor1308code/raizes-do-nordeste-backend)**
 
 RESTful API developed with Java and Spring Boot, featuring JWT authentication, Spring Security, Spring Data JPA, PostgreSQL and OpenAPI/Swagger documentation.
